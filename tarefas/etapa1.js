@@ -2,4 +2,4 @@ let tarefas = ['Estudar JavaScript', 'Fazer exercícios de matemática', 'Lavar 
 
 tarefas.push("Ver a namorada", "Dormir cedo")
 
-console.table(tarefas)
+console.table(tarefas) 
