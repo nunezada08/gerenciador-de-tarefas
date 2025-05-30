@@ -1,1 +1,1 @@
-<h1>Neste repositorio haverá um exercicio para criar um gerenciador de tarefas
+<h1>exercicios para criar um gerenciador de tarefas
