@@ -2,4 +2,4 @@ let tarefas = ['Estudar JavaScript', 'Fazer exercícios de matemática', 'Lavar 
 
 tarefas.unshift("Tomar café da manha rapido")
 
-console.table(tarefas)
+console.table(tarefas) 
